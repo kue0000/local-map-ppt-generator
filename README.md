@@ -1,4 +1,4 @@
-# China Map PPT Generator - OpenCode Skill
+# Map PPT Generator - OpenCode Skill
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
@@ -64,7 +64,6 @@ SHANGHAI_ADCODE = "310000"
 ```
 
 Common adcodes:
-- China (全国): 100000
 - Beijing (北京市): 110000
 - Shanghai (上海市): 310000
 - Guangdong (广东省): 440000
